@@ -1,0 +1,7 @@
+aws.tf
+.terraform*
+*/terraform.tfstate.*
+*.DS_Store
+.idea/
+.git/
+.envrc
